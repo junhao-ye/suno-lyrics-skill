@@ -1,5 +1,7 @@
 # suno-lyrics-skill
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
 Codex skill package for writing Suno-ready lyrics and Custom Mode prompts.
 
 This skill is for the moment when you do not just want a song idea.
