@@ -1,6 +1,6 @@
 # suno-lyrics-skill
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md)
 
 这是一个用于创作 Suno 歌词和 Custom Mode 提示词的 Codex skill。
 
