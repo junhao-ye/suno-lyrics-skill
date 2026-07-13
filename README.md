@@ -144,3 +144,7 @@ Avoid asking for the sound of a specific living artist. Describe the musical tra
 Suno prompt behavior is probabilistic. The skill is designed to reduce confusion, not promise exact control.
 
 For near-miss outputs, reuse what worked and revise only the broken field. Usually that beats rewriting the whole prompt from scratch.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).

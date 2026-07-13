@@ -142,3 +142,7 @@ Almost Fine
 Suno 的提示詞結果有隨機性。這個 skill 的目標是減少跑偏，不是承諾精確控制每一個生成細節。
 
 如果生成結果只是差一點，不要急著整份重寫。保留有效欄位，只修壞掉的欄位，通常更穩。
+
+## License
+
+MIT License。詳見 [LICENSE](LICENSE)。
